@@ -1,0 +1,15 @@
+command_aliases = {
+	["unreg"] = "rmmyaccount",
+	["set"] = "rhsetconf",
+	["reg"] = "regme",
+	["анрег"] = "rmmyaccount",
+	["хелп"] = "help",
+	["рег"] = "regme",
+	["h"] = "help",
+	["топиг"] = "showtopic",
+	["топик"] = "showtopic",
+	["топег"] = "showtopic",
+	["анрегми"] = "rmmyaccount",
+	["gc"] = "rhgetconf",
+	["rs"] = "restartscript",
+}
